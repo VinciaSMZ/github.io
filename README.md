@@ -1,2 +1,3 @@
-欢迎来到我的个人网站
-\n Welcome to my personal web
+欢迎来到我的个人网站!
+
+Welcome to my personal web!
